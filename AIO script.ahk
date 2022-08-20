@@ -1,6 +1,6 @@
 ;by arthur#1111
 ;crypto-free source on https://github.com/arthures11/LoL-Twisted-Fate-auto-card-picker-source
-
+;this requires AHK installed on your PC
 #NoEnv
 #NoTrayIcon
 #SingleInstance off
